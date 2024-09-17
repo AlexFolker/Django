@@ -22,4 +22,44 @@
         "name": "Косметика",
         "description": null
     }
-}]
+},
+{
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+        "name": "Iphon",
+        "description": "",
+        "image": "",
+        "category": 1,
+        "price": 999,
+        "created_at": null,
+        "updated_at": null
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+        "name": "LG",
+        "description": "",
+        "image": "",
+        "category": 2,
+        "price": 99999,
+        "created_at": null,
+        "updated_at": null
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+        "name": "Avon",
+        "description": "",
+        "image": "",
+        "category": 3,
+        "price": 2000,
+        "created_at": null,
+        "updated_at": null
+    }
+}
+]
